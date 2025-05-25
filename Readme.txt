@@ -1,5 +1,9 @@
 # Human Action Detection Model
-15 class 
+
+
+This model detects 15 different human actions
+
+
 names:
   - calling
   - clapping
