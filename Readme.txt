@@ -1,8 +1,6 @@
-# Human Action Detection Model #
-
+## Human Action Detection Model ##
 
 This model detects 15 different human actions
-
 
 names:
   - calling
